@@ -3,7 +3,7 @@ const CONFIG = {
     btnIntro: 'Tiếp',
     title: 'Em mún ún chà chữa',
     desc: 'Anh mua choa bé đi ',
-    btnYes: 'Được thui ',
+    btnYes: 'Được thui',
     btnNo: 'Không, mập lắm rồi',
     question:'Hehe em biết anh yêu em nhứt',
     btnReply: 'Mà đố anh em muốn uống trà sữa gì?',
